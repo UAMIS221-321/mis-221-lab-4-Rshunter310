@@ -1,0 +1,15 @@
+/Users/simshunter/mis-221-lab-4-Rshunter310/bin/Debug/net7.0/mis-221-lab-4-Rshunter310
+/Users/simshunter/mis-221-lab-4-Rshunter310/bin/Debug/net7.0/mis-221-lab-4-Rshunter310.deps.json
+/Users/simshunter/mis-221-lab-4-Rshunter310/bin/Debug/net7.0/mis-221-lab-4-Rshunter310.runtimeconfig.json
+/Users/simshunter/mis-221-lab-4-Rshunter310/bin/Debug/net7.0/mis-221-lab-4-Rshunter310.dll
+/Users/simshunter/mis-221-lab-4-Rshunter310/bin/Debug/net7.0/mis-221-lab-4-Rshunter310.pdb
+/Users/simshunter/mis-221-lab-4-Rshunter310/obj/Debug/net7.0/mis-221-lab-4-Rshunter310.csproj.AssemblyReference.cache
+/Users/simshunter/mis-221-lab-4-Rshunter310/obj/Debug/net7.0/mis-221-lab-4-Rshunter310.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simshunter/mis-221-lab-4-Rshunter310/obj/Debug/net7.0/mis-221-lab-4-Rshunter310.AssemblyInfoInputs.cache
+/Users/simshunter/mis-221-lab-4-Rshunter310/obj/Debug/net7.0/mis-221-lab-4-Rshunter310.AssemblyInfo.cs
+/Users/simshunter/mis-221-lab-4-Rshunter310/obj/Debug/net7.0/mis-221-lab-4-Rshunter310.csproj.CoreCompileInputs.cache
+/Users/simshunter/mis-221-lab-4-Rshunter310/obj/Debug/net7.0/mis-221-lab-4-Rshunter310.dll
+/Users/simshunter/mis-221-lab-4-Rshunter310/obj/Debug/net7.0/refint/mis-221-lab-4-Rshunter310.dll
+/Users/simshunter/mis-221-lab-4-Rshunter310/obj/Debug/net7.0/mis-221-lab-4-Rshunter310.pdb
+/Users/simshunter/mis-221-lab-4-Rshunter310/obj/Debug/net7.0/mis-221-lab-4-Rshunter310.genruntimeconfig.cache
+/Users/simshunter/mis-221-lab-4-Rshunter310/obj/Debug/net7.0/ref/mis-221-lab-4-Rshunter310.dll
