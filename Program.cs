@@ -1,41 +1,54 @@
-﻿using System;
-namespace menu;
-class program
+﻿//Variable to accept user input
+int station;
+
+//Declare and instatiate a television object
+Television bigScreen = new Television("Toshiba", 55);
+
+//Turn the power on
+bigScreen.Power();
+
+//Display the state of the television
+Console.WriteLine(bigScreen.ToString());
+
+//Prompt the user for input and store it in the station variable
+Console.WriteLine("What channel do you want? ");
+station = int.Parse(Console.ReadLine());
+
+//Change the channel on the television
+bigScreen.SetChannel(station);
+
+//Increase the volumne of the television
+bigScreen.IncreaseVolume();
+
+//Display the current channel and volumne
+Console.WriteLine("Channel: " + bigScreen.GetChannel() + " Volume: " + bigScreen.GetVolume());
+
+Console.WriteLine("Too loud!  Lowering the volume.");
+
+//Decrease the volume
+for (int x = 0; x < 6; x++)
 {
-//Global variables
-    static void Main(string[] args)
-    {
-        public static class Globals
-        {
-            public const symbol = "*";
-        }
-    }
-//start main
-        Menu();
-        GetFull();
-        GetPartial();
- //end main
-
-        //Menu
-        static Menu()
-        {
-             System.Console.WriteLine("What type of triangle would you like to display?");
-             System.Console.WriteLine("  -   Enter 1 to generate a full triangle");
-             System.Console.WriteLine("  -   Enter 2 to generate a partial triangle");
-             System.Console.WriteLine("  -   Enter 3 to exit the program");
-             menuInput = System.Console.ReadLine();
-        }
-        //GetFull
-        static void GetFull()
-        {
-            if(menuInput )
-        }
-
-        //getPartial
-        static void GetPartial()
-        {
-
-        }
-
-    } 
+    bigScreen.DecreaseVolume();
 }
+
+//Display the current channel and volumne
+Console.WriteLine("Channel: " + bigScreen.GetChannel() + " Volume: " + bigScreen.GetVolume());
+
+//create blank line
+Console.WriteLine();
+
+//HERE IS WHERE YOU DO TASK 5
+Television portable = new Television("Samsung", 19);
+portable.Power();
+Console.WriteLine(portable.ToString());
+Console.Write("What channel do you want? ");
+int channel = int.Parse(Console.ReadLine());
+portable.SetChannel(channel);
+portable.DecreaseVolume();
+portable.DecreaseVolume();
+
+Console.WriteLine("Channel: " + portable.GetChannel() + " Volume: " + portable.GetVolume());
+
+Console.ReadLine();
+
+Console.ReadKey();

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/simshunter/mis-221-lab-4-Rshunter310/mis-221-lab-4-Rshunter310.csproj",
+      "projectUniqueName": "/Users/simshunter/Desktop/LabMaster/mis-221-lab-4-Rshunter310/mis-221-lab-4-Rshunter310.csproj",
       "projectName": "mis-221-lab-4-Rshunter310",
-      "projectPath": "/Users/simshunter/mis-221-lab-4-Rshunter310/mis-221-lab-4-Rshunter310.csproj",
+      "projectPath": "/Users/simshunter/Desktop/LabMaster/mis-221-lab-4-Rshunter310/mis-221-lab-4-Rshunter310.csproj",
       "packagesPath": "/Users/simshunter/.nuget/packages/",
-      "outputPath": "/Users/simshunter/mis-221-lab-4-Rshunter310/obj/",
+      "outputPath": "/Users/simshunter/Desktop/LabMaster/mis-221-lab-4-Rshunter310/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/simshunter/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }
