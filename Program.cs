@@ -38,6 +38,7 @@ Console.WriteLine("Channel: " + bigScreen.GetChannel() + " Volume: " + bigScreen
 Console.WriteLine();
 
 //HERE IS WHERE YOU DO TASK 5
+//portable television object
 Television portable = new Television("Samsung", 19);
 portable.Power();
 Console.WriteLine(portable.ToString());
